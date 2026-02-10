@@ -1,0 +1,5 @@
+run in terminal
+npm run dev
+open localhost 3000
+http://localhost:3001/user
+add /user at the end then run it 
